@@ -7,7 +7,7 @@
 - [Face Counter](./Image%20Processing/Face%20Counter/)
 - [Face Detection](./Image%20Processing/Face%20Detection/) ✅
 - [Hand Gesture Recognition](./Image%20Processing/Hand%20Gesture%20Recognition/)
-- [Object Detection](./Image%20Processing/Object%20Detection/)
+- [Object Detection](./Image%20Processing/Object%20Detection/) ✅
 
 ### Machine Learning
 
