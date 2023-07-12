@@ -11,6 +11,6 @@
 
 ### Machine Learning
 
-- [Jajiga Rent Price Predictor](./Machine%20Learning/jajiga/)
-- [House Energy Prediction](./Machine%20Learning/Smart%20Home%20Energy%20Management%20System/)
+- [Jajiga Rent Price Predictor](./Machine%20Learning/jajiga/) ✅
+- [House Energy Prediction](./Machine%20Learning/Smart%20Home%20Energy%20Management%20System/) ✅
 - [Snake Game](./Machine%20Learning/snake%20game%20automatic%20player/) ✅
